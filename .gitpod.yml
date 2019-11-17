@@ -1,0 +1,7 @@
+image:
+  file: .gitpod.dockerfile
+
+vscode:
+  extensions:
+    - ms-vscode.powershell@2019.11.0:Okls9U3cd4O5pz1+HMYmzA==
+    - esbenp.prettier-vscode@3.6.0:9y6m6ybLqFsrLdLgdncMCA==
